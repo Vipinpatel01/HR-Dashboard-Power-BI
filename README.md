@@ -33,5 +33,6 @@ Power Query – Data cleaning and transformation
 
 GitHub – For version control and project showcase
 
+SCREEN SHORT :-( "C:\Users\vipin\OneDrive\Pictures\Screenshots\Screenshot 2025-09-12 233152.png")
    
  
