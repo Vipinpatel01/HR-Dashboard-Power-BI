@@ -33,6 +33,6 @@ Power Query – Data cleaning and transformation
 
 GitHub – For version control and project showcase
 
-SCREEN SHORT :-( "C:\Users\vipin\OneDrive\Pictures\Screenshots\Screenshot 2025-09-12 233152.png")
+SCREEN SHORT :-( "[C:\Users\vipin\OneDrive\Pictures\Screenshots\Screenshot 2025-09-12 233152.png](https://github.com/Vipinpatel01/HR-Dashboard-Power-BI/blob/main/Screenshot%202025-09-12%20233130.png)")
    
  
